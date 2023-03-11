@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "noEmit": true,
+    "types": ["@types/mocha", "@types/node"]
+  },
+
+  "include": ["src/**/*", "test/**/*"]
+}

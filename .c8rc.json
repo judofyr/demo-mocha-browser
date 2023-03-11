@@ -1,0 +1,4 @@
+{
+  "reporter": ["json"],
+  "src": "src"
+}
