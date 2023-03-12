@@ -2,6 +2,7 @@
   "compilerOptions": {
     "esModuleInterop": true,
     "noEmit": true,
+	"strict": true,
     "types": ["@types/mocha", "@types/node"]
   },
 

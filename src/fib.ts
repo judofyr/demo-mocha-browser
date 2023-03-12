@@ -1,4 +1,4 @@
-export function fib(num: number) {
+export function fib(num: number): number {
   if (num <= 1) {
     return num;
   } else {
